@@ -1,3 +1,3 @@
 def sum(a, b):
-    res = a + b
-    return res
+    # 合并后的sum函数
+    return a + b
